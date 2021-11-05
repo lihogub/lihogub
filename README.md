@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I know ReactJS a bit  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top">
 
 
 
