@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning Spring Boot  
 
+- 📶 (ex?) Android dev
+
 - ⚡ Fun fact: I know ReactJS a bit  
 
 ## My Skill Set  
