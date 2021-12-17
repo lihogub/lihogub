@@ -50,6 +50,5 @@
 
 ## Hackathone participant & winner. [*QubanTech*](https://github.com/qubantech) team-lead.
 
-| <img src="/images/hackathone-cybergarden-14/00-speech.jpg" alt="Speech" /> | <img src="/images/hackathone-cybergarden-14/01-clean-code.jpg" alt="Clean code" /> |
-| <img src="/images/hackathone-cybergarden-14/02-business-logic.jpg" alt="Business logic" /> | <img src="/images/hackathone-cybergarden-14/1.png" alt="Centr-invest bank" /> |
+| <img src="/images/hackathone-cybergarden-14/01-clean-code.jpg" alt="Clean code" /> | <img src="/images/hackathone-cybergarden-14/1.png" alt="Centr-invest bank" /> | <img src="/images/hackathone-cybergarden-14/02-business-logic.jpg" alt="Business logic" />  |
 |:--:|:--:|:--:|
